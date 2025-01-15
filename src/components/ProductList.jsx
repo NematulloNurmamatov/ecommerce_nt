@@ -2,8 +2,8 @@ import React from "react";
 import { useCart } from "../context/CartContext";
 
 const products = [
-    { id: 1, name: "Mahsulot 1", price: 10, image: "https://static.xabar.uz/crop/3/9/720_460_95_3978449311.jpg" },
-    { id: 2, name: "Mahsulot 2", price: 15, image: "https://storage.kun.uz/source/3/-oCkAFvziblW7M6Fh6Cb-Z6YiZ_VMhby.jpg" },
+    { id: 1, name: "Mahsulot 1", price: 10, image: "https://t3.ftcdn.net/jpg/06/80/95/30/360_F_680953070_LDMCNyNSiP11e2lg4TASbysaNfHkYcAw.jpg" },
+    { id: 2, name: "Mahsulot 2", price: 15, image: "https://rukminim2.flixcart.com/image/850/1000/xif0q/t-shirt/g/p/c/m-bio-washed-round-neck-t-shirts-shyam-trading-original-imags45fyywqytg5.jpeg?q=20&crop=false" },
     { id: 3, name: "Mahsulot 3", price: 20, image: "https://storage.kun.uz/source/3/76qAtqmAO51rc80taE22EU9rwrXrMcDd.jpg" },
     { id: 4, name: "Mahsulot 4", price: 25, image: "https://www.norma.uz/img/b7/3d/966400381295ea3b74e9688ac843.jpg" },
     { id: 5, name: "Mahsulot 5", price: 30, image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0zalp9UNtYchyOPU46YrcD_lrznpGQPTPHuE4oqRwMuGKrVGy1Ypn_lKMv5Mb4VcC5s&usqp=CAU" },
